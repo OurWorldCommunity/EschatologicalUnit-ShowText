@@ -86,7 +86,7 @@ public class smyhw extends JavaPlugin implements Listener
             	   
                }
         }
-       return false;
+       return true;
 	}
 	
 	static void CSBZ(CommandSender sender)
